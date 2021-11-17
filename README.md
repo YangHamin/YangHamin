@@ -30,3 +30,7 @@ Im interested in
 ##### Pattern Recognition
 ##### Machin Learning
 ##### Bio Medical datd Analytics
+
+Programming Language (can use)
+====
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
