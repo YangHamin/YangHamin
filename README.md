@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 PROFILE
 =======
-##### Major : Software
+##### Major : Software(B.S)
 ##### Korea National University of Transportation 
 ##### 대한민국 해군 전역 / Republic of korea Navy 
 
