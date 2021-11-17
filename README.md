@@ -20,7 +20,7 @@ PROFILE
 ##### Korea National University of Transportation 
 ##### 대한민국 해군 전역 / Republic of korea Navy 
 
-im interested in 
+Im interested in 
 ====
 ##### Brain science
 ##### Information Security
