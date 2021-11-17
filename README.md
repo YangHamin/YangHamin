@@ -24,3 +24,9 @@ im interested in
 ====
 ##### Brain science
 ##### Information Security
+##### Navy weapon system
+##### AESA redar
+##### Big data
+##### Pattern Recognition
+##### Machin Learning
+##### Bio Medical datd Analytics
