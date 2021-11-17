@@ -35,6 +35,7 @@ Im interested in
 ##### Pattern Recognition
 ##### Machin Learning
 ##### Bio Medical datd Analytics
+##### PR (public relations)
 
 Programming Language (can use)
 ====
