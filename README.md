@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Major : Software
-# Korea National University of Transportation 
-# 대한민국 해군 전역 / Republic of korea Navy 
+### Major : Software
+### Korea National University of Transportation 
+### 대한민국 해군 전역 / Republic of korea Navy 
