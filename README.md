@@ -29,7 +29,7 @@ Im interested in
 ====
 ##### Brain science
 ##### Information Security
-##### Navy weapon system
+##### Navy weapon system > ACS(Aegis Combat System) 
 ##### AESA redar
 ##### Big data
 ##### Pattern Recognition
