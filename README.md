@@ -44,4 +44,4 @@ Programming Language (can use)
 Programming Language (Studying)
 ====
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)]()
-[![flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=C%2B%2B&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=C%2B%2B&logoColor=white)]()
