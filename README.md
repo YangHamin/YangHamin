@@ -43,5 +43,5 @@ Programming Language (can use)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
 Programming Language (Studying)
 ====
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white)]()
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=C%2B%2B&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)]()
