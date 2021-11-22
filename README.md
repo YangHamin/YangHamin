@@ -37,6 +37,11 @@ Im interested in
 ##### Bio Medical datd Analytics
 ##### PR (public relations)
 
+Using Tools
+====
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white)]()
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anacondab&logoColor=white)]()
+
 Programming Language (can use)
 ====
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
