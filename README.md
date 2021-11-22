@@ -41,6 +41,7 @@ Using Tools
 ====
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white)]()
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)]()
+[![EclipseIDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)]()
 
 Programming Language (can use)
 ====
