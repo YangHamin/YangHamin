@@ -51,7 +51,6 @@ Programming Language (can use)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)]()
-[![C](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)]()
 
 Programming Language (Studying)
 ====
